@@ -32,6 +32,7 @@ Technical Timeline
 ## Shareholders:
 
 # Technical Analysis
+
 # Affected Systems & Data
 
 # Evidence Sources & Analysis
@@ -39,11 +40,17 @@ Technical Timeline
 # Indicators of Compromise (IoCs)
 ## C2 IP:
 
-
 # Root Cause Analysis
 
 # Technical Timeline
 ## Initial Compromise
+## Lateral Movement
+## Data Access & Exfiltration
+## C2 Communications
+## Malware Deployment or Activity
+## Containment Times
+## Eradication Times
+## Recovery Times
 
 # Nature of the Attack
 
@@ -68,7 +75,6 @@ Technical Timeline
 ### Timeframe:
 ### Method of Revocation:
 ### Impact:
-
 ## Containment Strategy
 ### Short-Term Containment:
 ### Long-Term Containment:
@@ -86,7 +92,6 @@ Technical Timeline
 ### Backup Validation:
 ### Restoration Process:
 ### Data Integrity Checks:
-
 ## System Validation
 ### Security Measures:
 ### Operational Checks:
@@ -95,13 +100,13 @@ Technical Timeline
 ## Monitoring
 ### Enhanced Monitoring Plans:
 ### Tools and Technologies:
-
 ## Lessons Learned
 ### Gap Analysis:
 ### Recommendations for Improvement:
 ### Future Strategy:
 
 # Annex A
+
 ## Technical Timeline
 |      Time      |                                                              Activity                                                              |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------|
