@@ -40,72 +40,81 @@ Technical Timeline
 ## C2 IP:
 
 
-Root Cause Analysis
+# Root Cause Analysis
 
-Technical Timeline
-Initial Compromise
+# Technical Timeline
+## Initial Compromise
 
-Data Access & Exfiltration
+# Nature of the Attack
 
-C2 Communications
+## Data Access & Exfiltration
 
-Containment Times
+## C2 Communications
 
-Eradication Times
+## Containment Times
 
-Nature of the Attack
+## Eradication Times
+
+## Nature of the Attack
 
 
-Impact Analysis
+# Impact Analysis
 
-Response and Recovery Analysis
-Immediate Response Actions
-Revocation of Access
+# Response and Recovery Analysis
 
-Timeframe:
-Impact:
+# Immediate Response Actions
+## Revocation of Access
+### Identification of Compromised Accounts / Systems:
+### Timeframe:
+### Method of Revocation:
+### Impact:
 
-Containment Strategy
+## Containment Strategy
+### Short-Term Containment:
+### Long-Term Containment:
+### Effectiveness:
 
-Short-term Containment:
-Long-term Containment:
-Effectiveness:
-Eradication Measures
+# Eradication Measures
+## Malware Removal:
+## System Patching:
+### Vulnerability Identification:
+### Patch Management:
+### Fallback Proceedures:
 
-Identification:
-Removal Techniques:
-Verification:
+# Recovery Steps
+## Data Restoration
+### Backup Validation:
+### Restoration Process:
+### Data Integrity Checks:
 
-System Patching
+## System Validation
+### Security Measures:
+### Operational Checks:
 
-Vulnerability Identification:
-Patch Management:
-Fallback Procedures:
-Recovery Steps
-Data Restoration
+# Post-Incident Actions
+## Monitoring
+### Enhanced Monitoring Plans:
+### Tools and Technologies:
 
-Backup Validation:
-Restoration Process:
-Data Integrity Checks:
+## Lessons Learned
+### Gap Analysis:
+### Recommendations for Improvement:
+### Future Strategy:
 
-System Validation
-
-Security Measures:
-Operational Checks:
-Post-Incident Actions
-Monitoring
-
-Enhanced Monitoring Plans:
-Tools and Technologies:
-
-Lessons Learned
-
-Gap Analysis:
-Recommendations for Improvement:
-Future Strategy:
-
-Annex A
-Technical Timeline
-Time
-
-Activity
+# Annex A
+## Technical Timeline
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
+|------Time------|--------------------------------------------------------------Activity--------------------------------------------------------------|
