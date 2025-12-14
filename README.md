@@ -26,21 +26,18 @@
 ## Key Findings:
 ## Immediate Actions:
 ## Stakeholder Impact:
-## Customers:
-## Business Partners:
-## Regulatory Bodies:
-## Shareholders:
+### Customers:
+### Employees:
+### Business Partners:
+### Regulatory Bodies:
+### Shareholders:
 
 # Technical Analysis
-
-# Affected Systems & Data
-
-# Evidence Sources & Analysis
-
-# Indicators of Compromise (IoCs)
-## C2 IP:
-
-# Root Cause Analysis
+## Affected Systems & Data
+## Evidence Sources & Analysis
+## Indicators of Compromise (IoCs)
+### C2 IP:
+## Root Cause Analysis
 
 # Technical Timeline
 ## Initial Compromise
@@ -53,17 +50,10 @@
 ## Recovery Times
 
 # Nature of the Attack
-
 ## Data Access & Exfiltration
-
 ## C2 Communications
-
 ## Containment Times
-
 ## Eradication Times
-
-## Nature of the Attack
-
 
 # Impact Analysis
 
